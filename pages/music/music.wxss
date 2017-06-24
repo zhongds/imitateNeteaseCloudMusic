@@ -1,0 +1,28 @@
+/* music.wxss */
+.root {
+  height:80rpx;
+  line-height:80rpx;
+  background-color:#e84a4a;
+}
+.breadcrumbs {
+  padding-left: 20rpx;
+}
+
+.swiper-tab {
+  text-align: center;
+  border-bottom: 2rpx solid #ccc;
+}
+
+.swiper-tab-list {
+  display: inline-block;
+  width: 25%;
+}
+
+.hover {
+  color: red;
+  border-bottom: 5rpx solid red;
+}
+
+.swiper-tab-list:hover {
+  border-bottom-color: red;
+}
