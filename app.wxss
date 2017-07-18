@@ -8,3 +8,8 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+
+.hl80 {
+  height:80rpx;
+  line-height:80rpx;
+}

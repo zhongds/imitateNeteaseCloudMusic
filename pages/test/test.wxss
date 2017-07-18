@@ -28,11 +28,10 @@
 .song-list {
   width: 33%;
   display: inline-block;
-  padding-bottom: 5px;
-  vertical-align: top;
 }
 
-.song-list:nth-child(2),.song-list:nth-child(5) {
+.song-list:nth-child(2),.song-list:nth-child(5),
+.song-list:nth-child(8) {
   padding: 0 3rpx;
 }
 
